@@ -101,6 +101,15 @@ html {
 }
 
 
+select {
+	background: none;
+	border: none;
+	outline: none;
+	box-shadow: none;
+
+	font: inherit;
+	color: inherit;
+}
 
 
 /*-------------RESET--------------*/
